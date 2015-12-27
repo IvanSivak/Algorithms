@@ -5,7 +5,7 @@
  * https://github.com/IvanSivak/Sieve-of-Eratosthenes
  *
  * Blog:
- * 
+ * http://www.ivansivak.net/blog/reactjs-sieve-of-eratosthenes-prime-numbers
  *
  */ 
  
