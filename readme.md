@@ -1,7 +1,7 @@
 <h2>Prime numbers generator</h2>
 
 <p>
-Uses Sieve of Eratosthenes algorithm, see more at: <a href="https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes">Wikipedia</a> page.
+Uses the Sieve of Eratosthenes algorithm, see more at: <a href="https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes">Wikipedia</a> page.
 </p>
 
 <p>

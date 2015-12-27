@@ -1,0 +1,25 @@
+@keyframes animatedBackground {
+	from { background-color: #FAFAFA; }
+	to { background-color: #00ff00; }
+}
+
+.plain{
+	display: inline-block;
+	padding: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 16px;
+	background-color: #FAFAFA;
+	border: 1px solid #ccc;
+	min-width: 38px;
+}
+
+.green {
+	/*background-color: #00FF00;*/
+	
+	animation: animatedBackground 3s linear forwards;
+}
+
+.space{
+	padding: 20px;
+}
