@@ -9,5 +9,9 @@ Written in JavaScript (Uses ReactJS as a "View")
 </p>
 
 <p>
+	See more about the project on my <a href="http://www.ivansivak.net/blog/reactjs-sieve-of-eratosthenes-prime-numbers">blog</a>
+</p>
+
+<p>
 Created just for fun. Enjoy.
 </p>
